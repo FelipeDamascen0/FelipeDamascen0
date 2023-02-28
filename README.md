@@ -1,6 +1,6 @@
 ### Olá eu sou Felipe Damasceno 
 - 🔭 Eu trabalho com front-end
-- 🌱 Estou estudando React Native e React
+- 🌱 Estou estudando Flutter e Dart
 - 📫 Contate-me no email : felipedamascenocontatooficial@gmail.com
 
  <div>
