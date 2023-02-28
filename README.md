@@ -1,5 +1,5 @@
 ### Olá eu sou Felipe Damasceno 
-- 🔭 Eu trabalho com front-end
+- 🔭 Desenvolvedor web e mobile
 - 🌱 Estou estudando Flutter e Dart
 - 📫 Contate-me no email : felipedamascenocontatooficial@gmail.com
 
