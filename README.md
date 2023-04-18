@@ -1,9 +1,5 @@
-### Olá eu sou Felipe Damasceno 
-- 🔭 Desenvolvedor web e mobile
-- 📫 Contate-me no email : felipedamascenocontatooficial@gmail.com
-
  
-# Shubhamdeep Jha&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Felipe Damasceno&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 
 <!-- 
@@ -16,11 +12,7 @@
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Kattankulatur</a>.  
-    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+    Desenvolvedor com conhecimento em JavaScript, TypeScript, Node e React , com habilidades em resolução de problemas e foco em usabilidade, performance e escalabilidade. Busco constantemente aprimorar minhas habilidades e estar atualizado com as novas tecnologias e técnicas de desenvolvimento. Sou uma pessoa flexível e ágil, com facilidade em aprender e me adaptar a mudanças, e atualmente estou em busca de novas oportunidades para aplicar minhas habilidades e contribuir em projetos desafiadores.
   </em>  
 </p>
 
