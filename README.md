@@ -23,7 +23,7 @@
 <a href="https://github.com/FelipeDamascen0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDamascen0&theme=dark&hide_langs_below=1" />
 </a>
-
+<br />
 <a href="https://github.com/FelipeDamascen0">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeDamascen0&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
@@ -58,8 +58,7 @@
 
 
 
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/felipe-damascen0) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:felipedamascenocontatooficial@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+ [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/felipe-damascen0)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:felipedamascenocontatooficial@gmail.com)
 
 
 
