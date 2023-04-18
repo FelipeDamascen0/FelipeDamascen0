@@ -48,6 +48,11 @@
 
 <br>
 
+# Linguagens e Ferramentas
+<div>
+ <img src="[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)" height="32px">
+</div>
+
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
