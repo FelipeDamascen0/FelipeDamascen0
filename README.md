@@ -3,7 +3,6 @@
 - 📫 Contate-me no email : felipedamascenocontatooficial@gmail.com
 
  <div>
-  <a href="http://felipedamasceno.lovestoblog.com/?i=1">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelipeDamascen0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDamascen0&layout=compact&langs_count=7&theme=dark"/>
 </div>
