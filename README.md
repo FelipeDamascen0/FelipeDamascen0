@@ -1,4 +1,3 @@
-```md
 # Felipe Damasceno
 
 <div align="center">
